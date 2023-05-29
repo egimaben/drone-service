@@ -1,0 +1,348 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+.idea
+.idea/.gitignore
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProject1.iml
+ deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/.idea/.gitignore
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/.idea/PyCharmLearningProject.iml
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/.idea/inspectionProfiles/profiles_settings.xml
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/.idea/misc.xml
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/.idea/modules.xml
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/README.md
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/feature-trainer-version.txt
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/buffered_reader.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/declaration_and_usages_demo.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/file_structure_demo.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/quadratic_equations_solver.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/recent_files_demo.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/sandbox.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/util/__init__.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/warehouse/__init__.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/src/warehouse/find_in_files_sample.py
+        deleted:    ../AppData/Local/JetBrains/PyCharmCE2022.3/demo/PyCharmLearningProject/welcome.py
+        deleted:    drone-service/app/server.py
+
+
+        ../.VirtualBox/
+        ../.atom/
+        ../.bash_history
+        ../.continuum/
+        ../.docker/
+        ../.gnupg/
+        ../.idea/
+        ../.idlerc/
+        ../.ipython/
+        ../.lesshst
+        ../.matplotlib/
+        ../.pylint.d/
+        ../.spyder-py3/
+        ../.vscode/
+        ../3D Objects/
+        ../Anaconda3/
+        ../AppData/.docker/
+        ../AppData/Local/Adobe/
+        ../AppData/Local/AnyVid/
+        ../AppData/Local/CEF/
+        ../AppData/Local/Comms/
+        ../AppData/Local/Conexant/
+        ../AppData/Local/ConnectedDevicesPlatform/
+        ../AppData/Local/CrashDumps/
+        ../AppData/Local/Docker/
+        ../AppData/Local/Downloaded Installers/
+        ../AppData/Local/GitHubDesktop/
+        ../AppData/Local/Google/
+        ../AppData/Local/GroupPolicy/
+        ../AppData/Local/IconCache.db
+        ../AppData/Local/JetBrains/PyCharmCE2023.1/
+        ../AppData/Local/Microsoft Help/
+        ../AppData/Local/Microsoft/
+        ../AppData/Local/MicrosoftEdge/
+        ../AppData/Local/MiniTool uTube Downloader/
+        ../AppData/Local/Mozilla/
+        ../AppData/Local/NVIDIA Corporation/
+        ../AppData/Local/NVIDIA/
+        ../AppData/Local/NetworkSecurity/
+        ../AppData/Local/OfficeBSCache-MyComputer/
+        ../AppData/Local/OneDrive/
+        ../AppData/Local/Package Cache/
+        ../AppData/Local/Packages/
+        ../AppData/Local/Postman/
+        ../AppData/Local/Programs/
+        ../AppData/Local/SlimWare Utilities Inc/
+        ../AppData/Local/SourceTree/
+        ../AppData/Local/Spyder/
+        ../AppData/Local/SquirrelTemp/
+        ../AppData/Local/Temp/
+        ../AppData/Local/VirtualStore/
+        ../AppData/Local/WhatsApp/
+        ../AppData/Local/atom/
+        ../AppData/Local/pip/
+        ../AppData/Local/pypa/
+        ../AppData/Local/speech/
+        ../AppData/LocalLow/
+        ../AppData/Roaming/
+        ../Contacts/
+        Array/
+        CI CD/
+        Docker/
+        Flask-Migrate/
+        Flask_api - Shortcut.lnk
+        Flask_api/
+        Functions/
+        Git/
+        Github projests/Flask_api/
+        Github projests/Project/
+        Github projests/python-flask-authentication-app/
+        Python for everybody/
+        To be learnt/
+        deployment to heroku/
+        django/
+        gitignore.txt/
+        leetcode/
+        linked list/
+        pythonProject2/
+        snapshot/
+        string and sorting/
+        ../Documents/
+        ../Downloads/
+        ../Favorites/
+        ../Flask-web-app/
+        ../IntelGraphicsProfiles/
+        ../Jedi/
+        ../Links/
+        ../MicrosoftEdgeBackups/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{47a6a17a-a514-11e7-a94e-ec0d9a05c860}.TM.blf
+        ../NTUSER.DAT{47a6a17a-a514-11e7-a94e-ec0d9a05c860}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{47a6a17a-a514-11e7-a94e-ec0d9a05c860}.TMContainer00000000000000000002.regtrans-ms
+        ../OneDrive - UMEME Ltd/
+        ../OneDrive/
+        ../Pictures/
+        ../Problem3_1.py
+        ../PycharmProjects/pythonProject/
+        ../PycharmProjects/pythonProject1/.gitignore
+        ../Saved Games/
+        ../Searches/
+        ../Videos/
+        ../_netrc
+        ../add_user.py
+        ../app.log
+        ../app.py
+        ../app1.py
+        ../appending and extending lists.py
+        ../bin/
+        ../concatenating and reaping lists.py
+        ../drone-service/
+        ../ex_02_03.py
+        ../fruit.csv
+        ../guru99.txt
+        ../hello-world/
+        ../list methods.py
+        ../mycsv.csv
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../ntuser.pol
+        ../pay.py
+        ../problem1_4.py
+        ../problem2..py
+        ../problem2.py
+        ../problem2_4.py
+        ../problem2_8.py
+        ../problem3_5.py
+        ../problem4_1.py
+        ../problem4_2.py
+        ../py.py
+        ../py1.py
+        ../py2.py
+        ../py3.py
+        ../python
+        ../python arrays.py
+        ../python list method.py
+        ../remove() or pop() lists.py
+        ../sampleJson.json
+        ../server.py
+        ../spyder.ini
+        ../test.db
+        ../test.py
+        ../transient.ini
+        ../untitled0.py
+        ../untitled1.py
+        ../untitled10.py
+        ../untitled11.py
+        ../untitled12.py
+        ../untitled13.py
+        ../untitled14.py
+        ../untitled15.py
+        ../untitled16.py
+        ../untitled17.py
+        ../untitled18.py
+        ../untitled19.py
+        ../untitled2.py
+        ../untitled20.py
+        ../untitled21.py
+        ../untitled22.py
+        ../untitled23.py
+        ../untitled24.py
+        ../untitled25.py
+        ../untitled26.py
+        ../untitled27.py
+        ../untitled28.py
+        ../untitled29.py
+        ../untitled3.py
+        ../untitled30.py
+        ../untitled31.py
+        ../untitled32.py
+        ../untitled33.py
+        ../untitled34.py
+        ../untitled35 and 15.py
+        ../untitled35.py
+        ../untitled36.py
+        ../untitled37.py
+        ../untitled38.py
+        ../untitled39.py
+        ../untitled4.py
+        ../untitled40.py
+        ../untitled41.py
+        ../untitled42.py
+        ../untitled43.py
+        ../untitled44.py
+        ../untitled5.py
+        ../untitled54.py
+        ../untitled55.py
+        ../untitled6.py
+        ../untitled7.py
+        ../untitled8.py
+        ../untitled9.py
