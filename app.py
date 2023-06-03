@@ -7,7 +7,6 @@ app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-# 'sqlite:///C:\\Users\\me\\PycharmProjects\\thisproject\\database.db'
 
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
